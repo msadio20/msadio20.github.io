@@ -1,0 +1,44 @@
+/* PastelPink Theme: modifies the default theme to use a shade of pink in various places. */
+
+/* Use Open Sans as the default font. */
+@import url("https://fonts.googleapis.com/css?family=Open+Sans:300,400,500,700|Source+Code+Pro:300,400,500,700");
+@import url("https://fonts.googleapis.com/css?family=Rubik:300,400,500,700");
+
+/* See https://getbootstrap.com/docs/5.2/customize/css-variables/#root-variables for variables to override. */
+:root {
+  --tf-pink1: #B77B82;
+  --tf-pink2: #C4848B;
+  --tf-pink3: #E9CDD0;
+  --tf-pink4: #FFEBEF;
+  --bs-font-monospace: "monaco", monaco;
+  --bs-link-color: var(--tf-pink1);
+  --tf-pill-bg: var(--tf-pink3);
+  --tf-icon-fill: var(--tf-pink1);
+  --tf-page-bg-color: var(--bs-white);
+  --tf-footer-bg-color: var(--tf-pink4);
+  --tf-projects-bg-color: var(--tf-pink4);
+}
+
+h1,h2,h3,h4,h5 {
+  color: var(--tf-pink1);
+  font-family: monaco;
+}
+
+/* Format social media icons */
+.tf-social {
+  display: inline-block;
+  fill: var(--tf-pink1);
+  height: 1.5em;
+  vertical-align: -.1em;
+  width: 1.5em;
+}
+
+a {
+  text-decoration: none;
+}
+
+.rounded-circle {
+  border-color: var(--tf-pink1);
+  border-style: solid;
+  border-width: 3px;
+}
