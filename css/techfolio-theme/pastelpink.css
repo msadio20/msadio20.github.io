@@ -1,5 +1,5 @@
 /* PastelPink Theme: modifies the default theme to use a shade of pink in various places. */
-
+<link rel="preload" href="Mona-Sans.woff2" as="font" type="font/woff2" crossorigin>
 /* Use Open Sans as the default font. */
 @font-face {
   font-family: 'Mona Sans';
@@ -31,7 +31,7 @@ html {
 
 h1,h2,h3,h4,h5 {
   color: var(--tf-pink1);
-  font-family: 'Mona Sans;
+  font-family: 'Mona Sans';
 }
 
 /* Format social media icons */
