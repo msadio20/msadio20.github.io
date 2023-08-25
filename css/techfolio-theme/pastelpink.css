@@ -1,0 +1,54 @@
+/* PastelPink Theme: modifies the default theme to use a shade of pink in various places. */
+<link rel="preload" href="Mona-Sans.woff2" as="font" type="font/woff2" crossorigin>
+/* Use Open Sans as the default font. */
+@font-face {
+  font-family: 'Mona Sans';
+  src:
+    url('Mona-Sans.woff2') format('woff2 supports variations'),
+    url('Mona-Sans.woff2') format('woff2-variations');
+  font-weight: 200 900;
+  font-stretch: 75% 125%;
+}
+
+html {
+  font-family: 'Mona Sans';
+}
+
+/* See https://getbootstrap.com/docs/5.2/customize/css-variables/#root-variables for variables to override. */
+:root {
+  --tf-pink1: #B77B82;
+  --tf-pink2: #C4848B;
+  --tf-pink3: #E9CDD0;
+  --tf-pink4: #FFEBEF;
+  --bs-font-monospace: "Mona Sans", Mona Sans;
+  --bs-link-color: var(--tf-pink1);
+  --tf-pill-bg: var(--tf-pink3);
+  --tf-icon-fill: var(--tf-pink1);
+  --tf-page-bg-color: var(--bs-white);
+  --tf-footer-bg-color: var(--tf-pink4);
+  --tf-projects-bg-color: var(--tf-pink4);
+}
+
+h1,h2,h3,h4,h5 {
+  color: var(--tf-pink1);
+  font-family: 'Mona Sans';
+}
+
+/* Format social media icons */
+.tf-social {
+  display: inline-block;
+  fill: var(--tf-pink1);
+  height: 1.5em;
+  vertical-align: -.1em;
+  width: 1.5em;
+}
+
+a {
+  text-decoration: none;
+}
+
+.rounded-circle {
+  border-color: var(--tf-pink1);
+  border-style: solid;
+  border-width: 3px;
+}

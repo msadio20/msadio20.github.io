@@ -1,0 +1,86 @@
+{
+  "basics": {
+    "name": "Ma Donna Jouliene Sadio",
+    "label": "Shidler Undergraduate Student",
+    "picture": "https://github.com/msadio20.png",
+    "email": "msadio20@hawaii.edu",
+    "phone": "808-497-3617",
+    "website": "https://msadio20.github.io",
+    "summary": "I am an undergraduate student at Shidler College of Business at the University of Hawai'i at Mānoa. I am pursuing a B.B.A. in Management Information Systems. I expect to graduate in the Spring of 2024.",
+    "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
+    "profiles": [
+      { "network": "linkedin", "username": " ", "url": " " },
+      { "network": "github", "username": "msadio20", "url": "http://github.com/msadio20" },
+      { "network": "instagram", "username": " ", "url": "http://instagram.com/luvmaddie__" }
+    ]
+  },
+  "interests": [
+    { "name": "Digital Design" },
+    { "name": "Marketing" },
+    { "name": "Coding" },
+    { "name": "Travel" },
+    { "name": "French" }
+  ],
+  "skills": [
+    {
+      "name": "Languages and Frameworks",
+      "keywords": [ "English", "Tagalog", "French", "Javascript" ]
+    },
+    {
+      "name": "Toolsets/OS",
+      "keywords": [ "MacOS", "MicrosoftOffice", "Git/GitHub" ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Hawaii, Honolulu, HI",
+      "area": "Management Information Systems (expected Spring, 2024)",
+      "studyType": "B.B.A.",
+      "startDate": "2020-08",
+      "endDate": "Present",
+      "courses": [
+      ]
+    }
+  ],
+  "work": [
+    {
+      "company": "Olive's A.R.C.H, LLC",
+      "position": "Certified Nurse Aide & Secretary",
+      "website": "",
+      "startDate": "2021-08",
+      "endDate": "Present",
+      "summary": "Care for the well-being of patients within the scope of my certification. Ensure Olive's A.R.C.H, LLC, effectively communicates and delivers its commitments to the community it serves.",
+      "highlights": [
+        "Maintain, update, and oversee official paperwork",
+        "Care for patients every day basic needs"
+      ]
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "Resurrection of the Lord Catholic Church",
+      "website": "https://resurrectionhawaii.org",
+      "position": "Master of Ceremonies",
+      "startDate": "2016-01-01",
+      "endDate": "2022-12-31",
+      "summary": "Lead fellow Altar Servers and volunteers through their duties before, during, and after mass.",
+      "highlights": [
+        "Ensure the stability of the flow of mass while maintaining the safety and security of parishoners",
+        "Organize and host scheduled mass and special events"
+      ]
+    }
+  ],
+  "awards": [
+    {
+      "title": "B+ Scholarship",
+      "date": "2020-Present",
+      "awarder": "State of Hawaii",
+      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
+    }
+  ],
+  "references": [
+    {
+      "name": "Available upon request"
+    }
+  ]
+}
