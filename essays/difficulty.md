@@ -1,54 +1,17 @@
 ---
 layout: essay
 type: essay
-title: "The difficult things will always be difficult"
+title: "E3 : Preparing for WODs
 # All dates must be YYYY-MM-DD format!
-date: 2016-02-06
-published: false
+date: 2023-09-22
+published: true
 labels:
-  - Engineering
+  - WODs
 ---
+In the past two weeks we have worked on 2 WODs, BrowserHistory6 (https://msadio20.github.io/ITM352_repo/WODS/BrowserHistory6/index.html) and SmartPhoneProducts_variables (https://msadio20.github.io/ITM352_repo/WODS/SmartPhoneProducts1_variables/products_display.html). For BrowserHistory6 we were tasked to edit BrowserHistory3 so that it would be divided into pages that reflect the respective browser. We focused on being able to use onclick, hoverover, and linking pages to the index file. For SmartPhoneProducts_variables we focused on using scripts and "document.write()" to replace hard coded text. We then linked a JavaScript file to our HTML so that the HTML file has the framework and the JavaScript has the meat of the webpage.
 
-<img width="200px" class="rounded float-start pe-4" src="../img/difficulty/degree_difficulty.jpg">
+My experience with performing the WOD went well. I skimmed over the instructions before beginning the WODs which I believe helped cutting down time so that I could meet the Rx goals. As I worked on the WODs I became more and more confident and paid less and less attention to minor aspects of my code. This in turn caused me more time trying to find the mistakes. This was increasingly frustrating which led me to making more mistakes. However, once I found the errors in my code the rest of the WOD was a breeze.
 
-*Difficulty: a thing that is hard to accomplish, deal with, or understand.*
+To prepare I reviewed the corresponding texts and screencasts included in the Modules. This really helped cut down time and effort because I was able to discern what the WOD was asking of me. Another thing that I did to prepare was skimming over the instructions before beginning the WOD. By skimming I was able to complete the WODs smoothly since I had an idea of what would come next after completing a step.
 
-One of my friends asked the question earlier last week -- why is it so hard to be an officer for the student branch? Why is so hard compared to working at my on-campus job? This question came after he struggled a little with bookkeeping for the student organization.
-
-Now I gave him the standard answer - being an officer of an organization requires that you manage your time between school and work. There isn't anyone telling you what to do. It's the answer any good mentor would give, and is mostly true.
-
-But the more I though about it, the more I wondered to myself...damn that's a really great question; it's one that deserves some more thought. Most people I think stop at the answer I gave previously - he obviously isn't managing his time properly.
-
-Here's what I think: the difficult things will always be difficult.
-
-## In the context of programming
-
-In the context of programming, this has always been true. The difficult problems have always been different, although changes in technology can change the landscape quite a bit. "Business" type applications are the things that come to mind for me. Those types of applications are usually coupled in some way with people ... and people are awfully hard to deal with!
-
-Consider that one of the most popular content management systems is also considered the most horrible - Wordpress. But really, is there anything that fills that need? If it was so easy in the first place, where is the solution? Where's the magic CMS that is designed well enough that everyone hops on the boat to use it?
-
-Some things are just difficult - building applications that humans use is hard, and will probably be hard for at least the near future.
-
-## In the context of engineering
-
-Ever hear people ragging on engineering companies for delivering late and way over budget? Well, some engineering jobs are really difficult, especially if the requirements and funding are undulating underneath you. Because of the nature of the problem, sometimes engineering firms require large amounts of engineers and workers, inviting further problems and delays.
-
-The Honolulu Rail project at home has become this sort of poster child of failure, budget overrun and overall incompetence in Hawaii. Well, working though regulatory boards and fiscal procedures in Hawaii seems like it's a mind bogglingly difficult job to do. Granted, there might be some fishy stuff going on, but I refuse to believe that everyone is involved for nefarious reasons.
-
-The problem of creating an unprecedented public transportation backbone on an island is difficult! I'm not sure we would have done it right, even if the best people were involved.
-
-## In the context of relationships
-
-So in the end, we realize that all engineering and programming is there for a reason - to serve human needs. Maybe that's why those things are difficult, because they both involve humans and are for humans.
-
-Relationships, regardless if they're romantic or not take work. Humans are fickle creatures and relationships can come and go with the wind. To properly maintain something over time requires work. Family takes work. Marriage takes work. We live to figure out what works and what doesn't and hope that as we move forward we're improving.
-
-Relationships have always been difficult, and by nature will continue to be so.
-
-## Okay!
-
-So back to the original premise; why is being one of the club officers so difficult?
-
-And the final answer - it's supposed to be difficult, and it's supposed to challenge you, just like everything else that humans do that is difficult: programming, engineering, engaging in relationships, pondering the universe, etc.
-
-Ultimately the question you should really ask yourself if something if particularly difficult is then "is it worth it"? That is something that is context specific and only you can answer yourself.
+Something I could have done better was taking my time. I was focused on completing the WODs within the Rx goal that I often sacrificed double checking my work. This worked against me, however, because I had to go back and check for errors when I loaded my code and the output was far from what I needed. For the next WOD I will try to take my time while completing it and also read the text more carefully so I don't make careless mistakes.
